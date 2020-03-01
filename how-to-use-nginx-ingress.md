@@ -1,0 +1,3 @@
+### krew
+
+#### install plugins krew
